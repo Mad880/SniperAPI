@@ -1,0 +1,11 @@
+{
+  "name": "sniper-api",
+  "version": "1.0.0",
+  "description": "Just an API that returns a sniper response (sniper from tf2)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Ezzer29",
+  "license": "MIT"
+}
