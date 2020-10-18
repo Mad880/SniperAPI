@@ -24,7 +24,23 @@ let phrases = [
     "This is gonna be a real piece of piss, you bloody fruit shop owners.",
     "G'day!",
     "Wave goodbye to your head, wanker.",
-    "Thanks fer standin' still, wanker!"
+    "Thanks fer standin' still, wanker!",
+    "Medic!",
+    "Follow me, Doctor!",
+    "This way, Doc!",
+    "Come on Doctor, Follow me!",
+    "Stay with me, Doc!",
+    "Thanks, mate!",
+    "Appreciate it, mate!",
+    "Get bloody going!",
+    "Let's go, mates!",
+    "Get over here ya yobbos and help me defend!",
+    "Help me pin this down!",
+    "Help me capture this bloody thing!",
+    "Get over here and help me capture!",
+    "Get on the point, Wanker!",
+    "Come stand on the point, ya bloody wuss!"
+    
 ]
 
 http.createServer(function (req, res) {
